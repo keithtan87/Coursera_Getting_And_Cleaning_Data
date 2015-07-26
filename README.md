@@ -34,5 +34,5 @@ Unzip the source zipped file into your working directory. The folder name is "UC
   
 * Step 5:
   * Create a new data frame by finding the mean for each combination of subject and label. It's done by `aggregate()` function and the file name is called "average_final_data.txt"
-
-*note: Use data <- read.table("average_final_data.txt") to read the data.
+  
+* Note: Use data <- read.table("average_final_data.txt") to read the data.
